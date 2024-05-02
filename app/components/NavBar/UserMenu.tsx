@@ -2,7 +2,7 @@
 
 import {AiOutlineMenu} from 'react-icons/ai'
 import Avatar from '../Avatar';
-import { useAppStore } from '@/libs/hook';
+
 import { useCallback, useState } from 'react';
 import MenuItem from './MenuItem';
 const UserMenu = () => {
